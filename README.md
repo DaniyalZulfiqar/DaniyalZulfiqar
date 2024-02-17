@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniyalZulfiqar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 🌱 MERN Stack
 - 💞️ I’m looking to collaborate on Java/React/Full Stack Projects
 - 📫 I can be reached at daniyal.uw@gmail.com
 
